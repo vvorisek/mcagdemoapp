@@ -1,2 +1,3 @@
-This is the first code file.
+This is the first code file. I appended this...
 
+Here's a new line of text. BTW, the 2nd line (blank) was also tracked.
